@@ -56,9 +56,15 @@ let addresses = [
 	'104.17.0.0#IPv4',
 	'[2606:4700::]#IPv6'
 	*/
-	'cf.090227.xyz#优选官方线路',
+	'cf.090227.xyz#优选官方线路'
 ];
-let addressesapi = [];
+let addressesapi = [
+	'https://cn.xxxxxxxx.tk',
+	'https://ct.xxxxxxxx.tk',
+	'https://cm.xxxxxxxx.tk',
+	'https://cu.xxxxxxxx.tk',
+	'https://cnv6.xxxxxxxx.tk',
+];
 let addressesnotls = [
 	//当sub为空且域名带有"worker"字样时启用本地优选域名/优选IP，若不带端口号 noTLS默认端口为80，#号后为备注别名
 	/*
