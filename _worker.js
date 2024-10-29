@@ -56,6 +56,7 @@ let addresses = [
 	'104.17.0.0#IPv4',
 	'[2606:4700::]#IPv6'
 	*/
+	'cf.090227.xyz#优选官方线路',
 ];
 let addressesapi = [];
 let addressesnotls = [
